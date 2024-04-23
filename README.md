@@ -26,14 +26,14 @@ A B2B web application focused on creating optimized marketing templates with eno
 - Team management, and code review
 
 #### NLP-driven application for production logs and database analytics
-**Job Role: R&D Engineer **
+**Job Role: R&D Engineer**
 It’s an NLP-driven web application for clients that helps to manage the production logs, database comparisons, and customized console logs to provide the faceted search to generate the report summary. This application has managed over 50 servers and reduced the developer's efforts of integration by 40%.
 
 **Roles & Responsibility:**
 Components Used: Django, NLP, Regex, AWS Boto3, Redis, Vector DB, Word Embeddings, JSON, Heroku, NER, Text Summarization
-● Created the road map along with the principal cloud engineer and project managers
-● Implemented NLP based solution to extract the relevant information from the server logs
+- Created the road map along with the principal cloud engineer and project managers
+- Implemented NLP based solution to extract the relevant information from the server logs
 to generate the report summary
-● Implementation of faceted search and a customized server logs console to be used by the
+- Implementation of faceted search and a customized server logs console to be used by the
 developers and the client
-● Clean, manage and extract server logs information to reduce the file size
+- Clean, manage and extract server logs information to reduce the file size
