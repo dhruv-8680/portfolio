@@ -1,9 +1,9 @@
 # Data Scientist
 
-### Profile Summary
+## Profile Summary
 Experienced in product development for deep learning and machine learning-based applications with a proven track record in designing and implementing cutting-edge algorithms. Proficient in generative AI, neural networks, NLP, large language models, computer vision, & predictive modeling. Skilled in programming languages such as Python and frameworks like TensorFlow, Langchains, Scikit-Learn, etc. Demonstrated expertise in optimizing model performance & deploying solutions in real-world applications. Strong problem-solving & analytical skills combined with a passion for staying updated with the latest advancements in the field. Able to effectively collaborate with cross-functional teams and deliver high-quality results.
 
-### Key Technical Skills
+## Key Technical Skills
 - **Languages**: Python, Javascript, Java, HTML, CSS
 - **Database**: MySQL, VectorDB, PostgreSQL, ChromaDB, Milvus DB
 - **Data Processing Practice**: EDA, Data Preprocessing, Data Cleaning, Feature Engineering, Text based clustering, Prompt Engineering
@@ -13,7 +13,7 @@ Experienced in product development for deep learning and machine learning-based 
 - MLOPs: Github, AWS S3, AWS Sagemaker, MLFlow (Registery, Logging, Model Deployment), AWS Lambda, Tensorboard, Docker
 - Management Tools: JIRA, Asana, Draw.io, Excel, PowerPoint, and other Microsoft Tools
 
-### Responsibilities:
+## Responsibilities:
 - Ability to envision the future of deep learning and machine learning technologies, understanding their potential impact on business and industry. Translate this vision into actionable strategies and goals for the team
 - Inspire and motivate a team of data scientists, engineers, and researchers, fostering a collaborative and inclusive work environment
 - Develop and execute strategic plans for product development, considering market trends, customer needs, and business objectives
@@ -24,14 +24,14 @@ Experienced in product development for deep learning and machine learning-based 
 
 Throughout my career, I have demonstrated the ability to collaborate effectively with cross-functional teams, fostering synergy and driving innovation. I am committed to staying at the forefront of technological advancements in deep learning and machine learning, ensuring that my contributions remain at the cutting edge of the industry.
 
-### Community Projects
-#### Youtube Genius App: YouTube Video Summarization & Question Generation Prototype
+## Community Projects
+### Youtube Genius App: YouTube Video Summarization & Question Generation Prototype
 
 **Technology Stack:** OpenAi ChatGPT-3.5-Turbo, Prompt Engineering, Langchain, FAISS <br>
 Our prototype app revolutionizes YouTube video consumption, offering efficient summarization and question generation. By condensing hours of content into concise summaries, users save time and avoid information overload. The app generates relevant questions, enhancing learning experiences. Simply paste a YouTube link, and intelligent algorithms provide comprehensive summaries and insightful queries. Ideal for students, educators, and content creators, it streamlines knowledge acquisition and trend tracking. With its imminent launch, this prototype promises to transform online video interaction, empowering users to explore diverse topics effortlessly.<br>
 **Github Repo:** 
 
-#### Car Damage Detection YoloV8
+### Car Damage Detection YoloV8
 **Technical Stack:** YoloV8 for object detection and segmentation, Python, MSCOCO dataset
 <p>The process of assessing and validating insurance claims for damaged car outer body parts is often time-consuming, manual, and subjective. Insurance companies face challenges in accurately detecting and evaluating the extent of damage, leading to potential discrepancies, delays, and customer dissatisfaction. Therefore, there is a need to develop an automated computer vision system that can accurately detect and classify damaged car outer body parts, enabling insurance companies to streamline their claims processing workflow and enhance customer satisfaction.</p>
 <p>The main problems to be addressed in this project include:</p>
@@ -43,12 +43,16 @@ Our prototype app revolutionizes YouTube video consumption, offering efficient s
 </ol>
 **Github Repo:**
 
-#### SmartSearch: A Database-Free Image Search Solution using
+### SmartSearch: A Database-Free Image Search Solution using
 **Technical Stack**: OpenAi, Langchain, Computer Vision, Image Captioning
 Traditional image search systems rely on complex databases and extensive annotations to store and retrieve images. However, these approaches come with limitations, including the need for database management and the time-consuming process of annotating images.
 
 In contrast, SmartSearch leverages advanced machine learning techniques to create a database-free image search solution. By extracting meaningful features directly from the images, SmartSearch enables fast and accurate search results without the need for annotations or external databases.
 **Github Repo**
 
+### Text Classification - Predict the fake news
+**Technology Stack:** Machine Learning, Deep Learning, NLP, BERT, NP Classifier, NLTK, MLflow, Text Analysis, FastAPI
+Performed text classification on the news text data. Prime task is to identify the news Fake|True.
+**Github Repo:**
 
 
