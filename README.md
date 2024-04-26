@@ -27,11 +27,12 @@ Throughout my career, I have demonstrated the ability to collaborate effectively
 ### Community Projects
 #### Youtube Genius App: YouTube Video Summarization & Question Generation Prototype
 
-**Technology Stack:** OpenAi ChatGPT-3.5-Turbo, Prompt Engineering, Langchain, FAISS
-Our prototype app revolutionizes YouTube video consumption, offering efficient summarization and question generation. By condensing hours of content into concise summaries, users save time and avoid information overload. The app generates relevant questions, enhancing learning experiences. Simply paste a YouTube link, and intelligent algorithms provide comprehensive summaries and insightful queries. Ideal for students, educators, and content creators, it streamlines knowledge acquisition and trend tracking. With its imminent launch, this prototype promises to transform online video interaction, empowering users to explore diverse topics effortlessly.
+**Technology Stack:** OpenAi ChatGPT-3.5-Turbo, Prompt Engineering, Langchain, FAISS <br>
+Our prototype app revolutionizes YouTube video consumption, offering efficient summarization and question generation. By condensing hours of content into concise summaries, users save time and avoid information overload. The app generates relevant questions, enhancing learning experiences. Simply paste a YouTube link, and intelligent algorithms provide comprehensive summaries and insightful queries. Ideal for students, educators, and content creators, it streamlines knowledge acquisition and trend tracking. With its imminent launch, this prototype promises to transform online video interaction, empowering users to explore diverse topics effortlessly.<br>
 **Github Repo:** 
 
-#### Problem Statement
+#### Car Damage Detection YoloV8
+**Technical Stack:** YoloV8 for object detection and segmentation, Python, MSCOCO dataset
 <p>The process of assessing and validating insurance claims for damaged car outer body parts is often time-consuming, manual, and subjective. Insurance companies face challenges in accurately detecting and evaluating the extent of damage, leading to potential discrepancies, delays, and customer dissatisfaction. Therefore, there is a need to develop an automated computer vision system that can accurately detect and classify damaged car outer body parts, enabling insurance companies to streamline their claims processing workflow and enhance customer satisfaction.</p>
 <p>The main problems to be addressed in this project include:</p>
 <ol>
@@ -40,3 +41,14 @@ Our prototype app revolutionizes YouTube video consumption, offering efficient s
     <li>Lack of standardization: The absence of standardized procedures and guidelines for assessing damaged car outer body parts can lead to inconsistencies in claim evaluations. Developing a computer vision system that follows standardized protocols would ensure consistent and fair assessments across different insurance claims.</li>
     <li>Variability in car models and damage types: Car models and designs vary significantly, and damage can manifest in different ways, making it challenging to develop a universal system that can accurately detect various types of damage across different vehicle types. The system needs to address this variability and accommodate a wide range of car models and damage scenarios.</li>    
 </ol>
+**Github Repo:**
+
+#### SmartSearch: A Database-Free Image Search Solution using
+**Technical Stack**: OpenAi, Langchain, Computer Vision, Image Captioning
+Traditional image search systems rely on complex databases and extensive annotations to store and retrieve images. However, these approaches come with limitations, including the need for database management and the time-consuming process of annotating images.
+
+In contrast, SmartSearch leverages advanced machine learning techniques to create a database-free image search solution. By extracting meaningful features directly from the images, SmartSearch enables fast and accurate search results without the need for annotations or external databases.
+**Github Repo**
+
+
+
