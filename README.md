@@ -13,27 +13,30 @@ Experienced in product development for deep learning and machine learning-based 
 - MLOPs: Github, AWS S3, AWS Sagemaker, MLFlow (Registery, Logging, Model Deployment), AWS Lambda, Tensorboard, Docker
 - Management Tools: JIRA, Asana, Draw.io, Excel, PowerPoint, and other Microsoft Tools
 
-### Projects
-#### AI-based marketing solution to enhance customer engagement
-**Job Role: Product Owner**
-A B2B web application focused on creating optimized marketing templates with enormous capabilities of customizations and recommendations. By leveraging the latest NLP techniques, the product has reduced customer efforts in creating and managing templates.
+### Responsibilities:
+- Ability to envision the future of deep learning and machine learning technologies, understanding their potential impact on business and industry. Translate this vision into actionable strategies and goals for the team
+- Inspire and motivate a team of data scientists, engineers, and researchers, fostering a collaborative and inclusive work environment
+- Develop and execute strategic plans for product development, considering market trends, customer needs, and business objectives
+- Apply optimization techniques to enhance the performance of machine learning models, including improving accuracy, reducing training and inference time, and minimizing resource utilization
+- Collaborate with engineering teams to deploy machine learning models and solutions in real-world applications. Ensure seamless integration with existing systems and infrastructure, considering factors such as scalability, reliability, and security
+- Stay abreast of the latest developments and advancements in the field of deep learning and machine learning. Proactively explore new technologies, methodologies, and frameworks to drive innovation and enhance product capabilities
+- Document algorithms, methodologies, and implementation details to facilitate knowledge sharing and ensure reproducibility
 
-**Roles & Responsibilities:**
-**Components Used:** Core JavaScript, Django, Computer Vision, SQL, AWS, GitHub, HTML Canvas, CSS, Machine Learning, Text Summarization, Prompt Engineering
-- Being product owner assisted CEO, and product manager in the creation of a product roadmap
-- Created cost-effective business logic
-- Directly responsible individual for the product execution and delivery
-- Team management, and code review
+Throughout my career, I have demonstrated the ability to collaborate effectively with cross-functional teams, fostering synergy and driving innovation. I am committed to staying at the forefront of technological advancements in deep learning and machine learning, ensuring that my contributions remain at the cutting edge of the industry.
 
-#### NLP-driven application for production logs and database analytics
-**Job Role: R&D Engineer**
-It’s an NLP-driven web application for clients that helps to manage the production logs, database comparisons, and customized console logs to provide the faceted search to generate the report summary. This application has managed over 50 servers and reduced the developer's efforts of integration by 40%.
+### Community Projects
+#### Youtube Genius App: YouTube Video Summarization & Question Generation Prototype
 
-**Roles & Responsibility:**
-Components Used: Django, NLP, Regex, AWS Boto3, Redis, Vector DB, Word Embeddings, JSON, Heroku, NER, Text Summarization
-- Created the road map along with the principal cloud engineer and project managers
-- Implemented NLP based solution to extract the relevant information from the server logs
-to generate the report summary
-- Implementation of faceted search and a customized server logs console to be used by the
-developers and the client
-- Clean, manage and extract server logs information to reduce the file size
+**Technology Stack:** OpenAi ChatGPT-3.5-Turbo, Prompt Engineering, Langchain, FAISS
+Our prototype app revolutionizes YouTube video consumption, offering efficient summarization and question generation. By condensing hours of content into concise summaries, users save time and avoid information overload. The app generates relevant questions, enhancing learning experiences. Simply paste a YouTube link, and intelligent algorithms provide comprehensive summaries and insightful queries. Ideal for students, educators, and content creators, it streamlines knowledge acquisition and trend tracking. With its imminent launch, this prototype promises to transform online video interaction, empowering users to explore diverse topics effortlessly.
+**Github Repo:** 
+
+#### Problem Statement
+<p>The process of assessing and validating insurance claims for damaged car outer body parts is often time-consuming, manual, and subjective. Insurance companies face challenges in accurately detecting and evaluating the extent of damage, leading to potential discrepancies, delays, and customer dissatisfaction. Therefore, there is a need to develop an automated computer vision system that can accurately detect and classify damaged car outer body parts, enabling insurance companies to streamline their claims processing workflow and enhance customer satisfaction.</p>
+<p>The main problems to be addressed in this project include:</p>
+<ol>
+    <li>Inaccurate detection: The current manual inspection process for damaged car outer body parts can be subjective and prone to human error, resulting in inaccurate assessments. An automated system is required to improve the accuracy of damage detection, ensuring a fair evaluation of insurance claims.</li>
+    <li>Inefficient claims processing: Manual assessment of damaged car outer body parts is time-consuming, leading to delays in claim settlements and increased operational costs for insurance companies. An automated solution would enable faster and more efficient claims processing, reducing the time and resources required for evaluation.</li>
+    <li>Lack of standardization: The absence of standardized procedures and guidelines for assessing damaged car outer body parts can lead to inconsistencies in claim evaluations. Developing a computer vision system that follows standardized protocols would ensure consistent and fair assessments across different insurance claims.</li>
+    <li>Variability in car models and damage types: Car models and designs vary significantly, and damage can manifest in different ways, making it challenging to develop a universal system that can accurately detect various types of damage across different vehicle types. The system needs to address this variability and accommodate a wide range of car models and damage scenarios.</li>    
+</ol>
